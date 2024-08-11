@@ -1,2 +1,2 @@
 # docker-job
-Create a Jenkins pipeline to run docker-jobs
+This is a sample to create a Jenkins pipeline to run docker-jobs
